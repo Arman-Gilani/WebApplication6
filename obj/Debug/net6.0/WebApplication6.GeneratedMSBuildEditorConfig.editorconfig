@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication6
+build_property.RootNamespace = WebApplication6
+build_property.ProjectDir = D:\ARMAN\ASP.NET PROGRAMS\WebApplication6\WebApplication6\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ARMAN\ASP.NET PROGRAMS\WebApplication6\WebApplication6
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_City/Views/LOC_City/LOC_CityAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcTE9DX0NpdHlcTE9DX0NpdHlBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_City/Views/LOC_City/LOC_CityEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcTE9DX0NpdHlcTE9DX0NpdHlFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_City/Views/LOC_City/LOC_CityList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcTE9DX0NpdHlcTE9DX0NpdHlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_City/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_City/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_Country/Views/LOC_Country/LOC_CountryAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcTE9DX0NvdW50cnlcTE9DX0NvdW50cnlBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_Country/Views/LOC_Country/LOC_CountryEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcTE9DX0NvdW50cnlcTE9DX0NvdW50cnlFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_Country/Views/LOC_Country/LOC_CountryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcTE9DX0NvdW50cnlcTE9DX0NvdW50cnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_Country/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_Country/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_State/Views/LOC_State/LOC_StateAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXExPQ19TdGF0ZVxMT0NfU3RhdGVBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_State/Views/LOC_State/LOC_StateEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXExPQ19TdGF0ZVxMT0NfU3RhdGVFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_State/Views/LOC_State/LOC_StateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXExPQ19TdGF0ZVxMT0NfU3RhdGVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_State/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/LOC_State/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/MST_Branch/Views/MST_Branch/MST_BranchAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX0JyYW5jaFxWaWV3c1xNU1RfQnJhbmNoXE1TVF9CcmFuY2hBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/MST_Branch/Views/MST_Branch/MST_BranchEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX0JyYW5jaFxWaWV3c1xNU1RfQnJhbmNoXE1TVF9CcmFuY2hFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/MST_Branch/Views/MST_Branch/MST_BranchList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX0JyYW5jaFxWaWV3c1xNU1RfQnJhbmNoXE1TVF9CcmFuY2hMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/MST_Branch/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX0JyYW5jaFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/MST_Branch/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX0JyYW5jaFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/MST_Student/Views/MST_Student/MST_StudentAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX1N0dWRlbnRcVmlld3NcTVNUX1N0dWRlbnRcTVNUX1N0dWRlbnRBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/MST_Student/Views/MST_Student/MST_StudentEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX1N0dWRlbnRcVmlld3NcTVNUX1N0dWRlbnRcTVNUX1N0dWRlbnRFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/MST_Student/Views/MST_Student/MST_StudentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX1N0dWRlbnRcVmlld3NcTVNUX1N0dWRlbnRcTVNUX1N0dWRlbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/MST_Student/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX1N0dWRlbnRcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Areas/MST_Student/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTVNUX1N0dWRlbnRcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/Home/UserProfilePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VyUHJvZmlsZVBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/Home/Validation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWYWxpZGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ARMAN/ASP.NET PROGRAMS/WebApplication6/WebApplication6/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hsau5e1np2

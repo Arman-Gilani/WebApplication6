@@ -1,0 +1,74 @@
+﻿@using WebApplication6.Areas.LOC_City.Models;
+@using System.Data;
+@model LOC_CityModel;
+
+<html>
+<body>
+
+	<div>
+		<a href="https://localhost:7017/LOC_City/LOC_City/LOC_CityList" class="btn btn-primary">
+			Back
+		</a>
+	</div>
+
+	<br />
+
+	<div class="pagetitle">
+		<h1>City Add Page</h1>
+	</div>
+
+	<br/>
+
+	<div class="card">
+		<div class="card-body">
+			<h5 class="card-title">Insert City Details</h5>
+			<form class="row g-3" method="post" asp-area="LOC_City" asp-controller="LOC_City" asp-action="LOC_CityAddFormPage">
+
+				<div class="col-md-6">
+					<select id="countryID" name="countryID" class="form-select form-select-m w-25"
+							asp-items="@(new SelectList(ViewBag.CountryList,"CountryID","CountryName"))">
+						<option disabled selected>Select Country</option>
+					</select>
+				</div>
+
+				<div class="col-md-6">
+					<select id="stateID" name="stateID" class="form-select form-select-m w-25"
+							asp-items="@(new SelectList(ViewBag.StateList,"StateID","StateName"))">
+						<option disabled selected>Select State</option>
+					</select>
+				</div>
+
+				<div class="col-md-6">
+					<label for="inputName5" class="form-label">CityName:</label>
+					<input type="text" id="cityName" name="cityName" class="form-control" required />
+				</div>
+
+				<div class="col-md-6">
+					<label for="inputName5" class="form-label">CityCode:</label>
+					<input type="text" id="cityCode" name="cityCode" class="form-control" required />
+				</div>
+
+				<div>
+					<input type="submit" value="Submit" class="btn btn-primary" />
+				</div>
+
+			</form>
+		</div>
+	</div>
+
+</body>
+</html>
+
+<!--			
+
+	<div class="col-md-6">
+		<label for="inputName5" class="form-label">CountryID:</label>
+		<input type="text" id="countryID" name="countryID" class="form-control" required />
+	</div>
+
+	<div class="col-md-6">
+		<label for="inputName5" class="form-label">StateID:</label>
+		<input type="text" id="stateID" name="stateID" class="form-control" required />
+	</div>
+
+-->

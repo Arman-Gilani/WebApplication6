@@ -1,0 +1,62 @@
+﻿@using WebApplication6.Areas.LOC_State.Models;
+@using System.Data;
+@model LOC_StateModel;
+
+<html>
+	<body>
+
+		<div>
+			<a href="https://localhost:7017/LOC_State/LOC_State/LOC_StateList" class="btn btn-primary">
+				Back
+			</a>
+		</div>
+
+		<br />
+
+		<div class="pagetitle">
+			<h1>State Add Page</h1>
+		</div>
+
+		<br />
+
+		<div class="card">
+			<div class="card-body">
+				<h5 class="card-title">Insert State Details</h5>
+				<form class="row g-3" method="post" asp-area="LOC_State" asp-controller="LOC_State" asp-action="LOC_StateAddFormPage">
+
+					<div>
+						<select id="countryID" name="countryID" class="form-select form-select-m w-25"
+								asp-items="@(new SelectList(ViewBag.CountryList,"CountryID","CountryName"))">
+							<option disabled selected>Select Country</option>
+						</select>
+					</div>
+					
+					<div class="col-md-6">
+						<label for="inputName5" class="form-label">StateName:</label>
+						<input type="text" id="stateName" name="stateName" class="form-control" required />
+					</div>
+
+					<div class="col-md-6">
+						<label for="inputName5" class="form-label">StateCode:</label>
+						<input type="text" id="stateCode" name="stateCode" class="form-control" required />
+					</div>
+
+					<div>
+						<input type="submit" value="Submit" class="btn btn-primary" />
+					</div>
+
+				</form>
+			</div>
+		</div>
+
+	</body>
+</html>
+
+<!--
+
+	<div class="col-md-6">
+		<label for="inputName5" class="form-label">CountryID:</label>
+		<input type="text" id="countryID" name="countryID" class="form-control" required />
+	</div>
+
+-->

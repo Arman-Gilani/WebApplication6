@@ -1,0 +1,50 @@
+﻿@using WebApplication6.Areas.LOC_Country.Models;
+@using System.Data;
+@model LOC_CountryModel;
+
+<html>
+	<body>
+
+		<div>
+			<a href="https://localhost:7017/LOC_Country/LOC_Country/LOC_CountryList" class="btn btn-primary">
+				Back
+			</a>
+		</div>
+
+		<br />
+
+		<div class="pagetitle">
+			<h1>Country Edit Page</h1>
+		</div>
+
+		<br />
+
+		<div class="card">
+			<div class="card-body">
+			
+				<h5 class="card-title">Update Country Details</h5>
+			
+				<form class="row g-3" method="post" asp-area="LOC_Country" asp-controller="LOC_Country" asp-action="LOC_CountryEditFormPage">
+
+					<div class="col-md-6">
+						<label for="inputName5" class="form-label">CountryName:</label>
+						<input type="text" value="@ViewBag.CountryName" id="countryName" name="countryName" class="form-control" required />
+					</div>
+
+					<div class="col-md-6">
+						<label for="inputName5" class="form-label">CountryCode:</label>
+						<input type="text" value="@ViewBag.CountryCode" id="countryCode" name="countryCode" class="form-control" required />
+					</div>
+
+					<div>
+						<input type="hidden" name="CountryID" value="@ViewBag.CountryID" />
+						<input type="submit" value="Update" class="btn btn-primary" />
+					</div>
+
+				</form>
+
+			</div>
+		</div>
+
+	</body>
+</html>
